@@ -2,9 +2,7 @@
 <img width =100%  src = "https://raw.githubusercontent.com/huynhchinh307/huynhchinh307/main/header.svg">
 ## About Me
 
-I am a Youtuber and Programming Enthusiast living in Prayagraj, India, and a Computer Science and Communication Engineering undergraduate at KIIT, Bhubaneshwar.
-As a hobby, I love to edit videos and read books.
-My ambition is to use technology to improve the world into a better place.
+Hello, I am a .NET programmer with a passion for coding and a drive to explore new technologies
 
 <h2  > Connect with me</h2>
 
