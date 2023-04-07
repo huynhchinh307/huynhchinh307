@@ -1,10 +1,5 @@
 <!-- @format -->
-<img width =100%  src = "assets\header.png">
-
-<h1 align ="center">Hi,<img src ="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"width = 35> I'm Cong Chinh</h1>
-
-<h2 align = "center"> Developer | Programming Enthusiasts | Script Creator </h2>
-
+<img width =100%  src = "https://raw.githubusercontent.com/huynhchinh307/huynhchinh307/main/header.svg">
 ## About Me
 
 I am a Youtuber and Programming Enthusiast living in Prayagraj, India, and a Computer Science and Communication Engineering undergraduate at KIIT, Bhubaneshwar.
@@ -13,11 +8,7 @@ My ambition is to use technology to improve the world into a better place.
 
 <h2  > Connect with me</h2>
 
-<img align = "left" width = 40% src = "assets/socialmedia.svg"> 
-<div align ="right">
-  
-<div>
-
+<img align = "left" width = 17% src = "https://raw.githubusercontent.com/huynhchinh307/huynhchinh307/main/socialmedia.svg">
 
 [<img align="top" alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://fujauto.fun/)
 <br>  
